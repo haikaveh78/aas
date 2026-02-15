@@ -1,1 +1,7 @@
-("https://raw.githubusercontent.com/haikaveh78/wwr/main/5555.png")
+#header h1.heading a::after {
+  content: "";
+  display: block;
+  width: 400px;
+  height: 246px;
+  background: url("https://raw.githubusercontent.com/haikaveh78/aas/main/andreil.png") no-repeat center;
+  background-size: contain;
