@@ -3,5 +3,5 @@
   display: block;
   width: 400px;
   height: 246px;
-  background: url("https://raw.githubusercontent.com/haikaveh78/aas/main/andreil.png") no-repeat center;
+  background: url("https://raw.githubusercontent.com/haikaveh78/aas/main/kaveh.png") no-repeat center;
   background-size: contain;
